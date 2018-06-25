@@ -1,0 +1,5 @@
+def say_hello(your_name, my_name="elmo")  
+  puts"hello #{your_name}! {your_name}i am your father{my_name
+  end
+  
+  say_hello("sky walker","darth varder")
